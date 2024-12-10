@@ -12,4 +12,5 @@ We have discussed below things today
     - Adding Software Code and accessing via mobile is API
 - What is REST
     - Guideline for building communication systems
+Session ended abpruptly
     

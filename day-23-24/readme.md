@@ -12,5 +12,17 @@ We have discussed below things today
     - Adding Software Code and accessing via mobile is API
 - What is REST
     - Guideline for building communication systems
-Session ended abpruptly
+
+** day - 23 : Session ended abpruptly **
+
+** day - 24 : MongoDb **
+
+- MongoDb
+    - Installation Quick Overview
+    - Accessing mongo via mongosh i.e mongo shell
+- MongoDb and Node Connectivity
+    - Understanding of Driver
+    - Installing mongo driver
+    - NodeJs code for connection
+
     

@@ -21,8 +21,13 @@ We have discussed below things today
     - Installation Quick Overview
     - Accessing mongo via mongosh i.e mongo shell
 - MongoDb and Node Connectivity
+    - Working with mongoshell
     - Understanding of Driver
     - Installing mongo driver
     - NodeJs code for connection
-
+    - Mongo Data Structure
+        - BSON Objects
+        - Collections, Documents
+        - JSON Objects
+    - Inserting into mongo
     

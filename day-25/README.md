@@ -1,0 +1,5 @@
+- Creating Node Project: npm init
+- Creating express CRUD App
+    - Installing Express dependency - npm init express
+    - Installing Mongo Driver - npm init mogodb
+    - We have created routes for CREATE = POST, READ = GET, UPDATE = PUT and DELETE = DELETE

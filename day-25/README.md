@@ -8,3 +8,4 @@
     - Understood request and response headers
     - Worked with REST Client extention of VSCode
     - Returned JSON messages from POST and GET endpoints.
+    - use json middleware

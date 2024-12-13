@@ -7,3 +7,7 @@ Content-Type: application/json
     "id" : 1,
     "name" : "audi"
 }
+
+###
+
+GET http://localhost:3000/read

@@ -12,9 +12,14 @@ client.connect()
 
             const collection = db.collection('cars')
 
+
+
             try {
                 const result = await collection.insertOne(car)
                 console.log('🟢 Car Saved Successfully')
+
+                const cars = await db.collection('cars').find({}).toArray()
+                console.log(cars)
             } catch (error) {
                 console.error('🔴 Error in Inserting')
             }

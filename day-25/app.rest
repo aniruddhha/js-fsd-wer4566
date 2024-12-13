@@ -1,0 +1,9 @@
+
+POST  http://localhost:3000/create
+
+Content-Type: application/json
+
+{
+    "id" : 1,
+    "name" : "audi"
+}

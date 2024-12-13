@@ -3,3 +3,8 @@
     - Installing Express dependency - npm init express
     - Installing Mongo Driver - npm init mogodb
     - We have created routes for CREATE = POST, READ = GET, UPDATE = PUT and DELETE = DELETE
+    - JSON transfer for client and serever
+    - Tried invoking GET method from browser
+    - Understood request and response headers
+    - Worked with REST Client extention of VSCode
+    - Returned JSON messages from POST and GET endpoints.

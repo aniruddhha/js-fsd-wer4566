@@ -1,2 +1,6 @@
-- Developing REST API for To Do List app
+- We already have discussed http, REST and other things in previous sessions
+- Developing REST API for ToDo List app
 - Installed depenedencies like Express and Mongo
+- Setting JSON as a middleware to express app
+- Reading request body 
+- Reading URL parameters

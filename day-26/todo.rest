@@ -2,12 +2,16 @@ POST http://localhost:3000/create
 Content-Type: application/json
 
 {
-    "tId" : 111,
-    "tsk" : "Grocery",
-    "desc": "Need to buy weekly grocery",
+    "tId" : 112,
+    "tsk" : "Gym",
+    "desc": "Need to hit the gym",
     "sts" : false
 }
 
 ###
 
 GET http://localhost:3000/tasks
+
+###
+
+DELETE http://localhost:3000/delete/675ffddc7d70686de96fa41d

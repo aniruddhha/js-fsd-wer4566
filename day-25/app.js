@@ -4,8 +4,6 @@ const { MongoClient } = require('mongodb')
 const app = express()
 const port = 3000
 
-
-
 const startServer = async () => {
     try {
         // Connect to MongoDB

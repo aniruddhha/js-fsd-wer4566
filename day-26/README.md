@@ -1,0 +1,2 @@
+- Developing REST API for To Do List app
+- Installed depenedencies like Express and Mongo

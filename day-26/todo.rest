@@ -1,0 +1,13 @@
+POST http://localhost:3000/create
+Content-Type: application/json
+
+{
+    "tId" : 111,
+    "tsk" : "Grocery",
+    "desc": "Need to buy weekly grocery",
+    "sts" : false
+}
+
+###
+
+GET http://localhost:3000/tasks

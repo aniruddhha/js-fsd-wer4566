@@ -1,0 +1,4 @@
+- What is ES6 ?
+- var, let, const difference
+- template strings
+- Destructuring : Objects and Arrays

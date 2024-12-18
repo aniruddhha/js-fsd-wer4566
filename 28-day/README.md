@@ -2,3 +2,5 @@
 - var, let, const difference
 - template strings
 - Destructuring : Objects and Arrays
+- arrow functions
+- classes and objects

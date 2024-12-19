@@ -1,0 +1,21 @@
+- Promises
+    - resolving and rejecting
+    - then and catch
+    - promise chaining
+- Async Await
+    - what is it ?
+    - relationship with promises
+    - async functions
+    - await keyword
+- Buffer
+    - Data is represented by buffer
+    - Creating buffers
+        - from method
+        - alloc method
+- Events
+    - EventEmitter class
+    - Emitting and Listening for events
+- Streams
+    - Basic Defination
+    - 4 Types: Readable, Writable, Duplex, Transform
+    
